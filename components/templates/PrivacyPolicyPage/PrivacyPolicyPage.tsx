@@ -43,7 +43,7 @@ const PrivacyPolicyPage = () => {
                 персональных данных (далее – Политика) применяется ко всей
                 информации, которую Оператор может получить о посетителях
                 веб-сайта&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>.
+                <a href='https://BeastShop.ru'>https://BeastShop.ru</a>.
               </li>
             </ol>
             <h3>2. Основные понятия, используемые в Политике</h3>
@@ -63,7 +63,7 @@ const PrivacyPolicyPage = () => {
                 материалов, а также программ для ЭВМ и баз данных,
                 обеспечивающих их доступность в сети интернет по сетевому
                 адресу&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>;
+                <a href='https://BeastShop.ru'>https://BeastShop.ru</a>;
               </li>
               <li>
                 2.4. Информационная система персональных данных — совокупность
@@ -100,11 +100,11 @@ const PrivacyPolicyPage = () => {
                 2.8. Персональные данные – любая информация, относящаяся прямо
                 или косвенно к определенному или определяемому Пользователю
                 веб-сайта&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>;
+                <a href='https://BeastShop.ru'>https://BeastShop.ru</a>;
               </li>
               <li>
                 2.9. Пользователь – любой посетитель веб-сайта&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>;
+                <a href='https://BeastShop.ru'>https://BeastShop.ru</a>;
               </li>
               <li>
                 2.10. Предоставление персональных данных – действия,
@@ -169,7 +169,7 @@ const PrivacyPolicyPage = () => {
                 предложениях и различных событиях. Пользователь всегда может
                 отказаться от получения информационных сообщений, направив
                 Оператору письмо на адрес электронной почты&nbsp;
-                <a href='mailto:rostelecom.merc@rt.ru'>rostelecom.merc@rt.ru</a>
+                <a href='mailto:BeastShop.merc@rt.ru'>BeastShop.merc@rt.ru</a>
                 &nbsp;с пометкой «Отказ от уведомлений о новых продуктах и
                 услугах и специальных предложениях».
               </li>
@@ -187,7 +187,7 @@ const PrivacyPolicyPage = () => {
                 только в случае их заполнения и/или отправки Пользователем
                 самостоятельно через специальные формы, расположенные на
                 сайте&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>.
+                <a href='https://BeastShop.ru'>https://BeastShop.ru</a>.
                 Заполняя соответствующие формы и/или отправляя свои персональные
                 данные Оператору, Пользователь выражает свое согласие с данной
                 Политикой.
@@ -226,7 +226,7 @@ const PrivacyPolicyPage = () => {
                 Пользователь может актуализировать их самостоятельно, путем
                 направления Оператору уведомление на адрес электронной почты
                 Оператора&nbsp;
-                <a href='mailto:rostelecom.merc@rt.ru'>rostelecom.merc@rt.ru</a>
+                <a href='mailto:BeastShop.merc@rt.ru'>BeastShop.merc@rt.ru</a>
                 &nbsp;с пометкой «Актуализация персональных данных».
               </li>
               <li>
@@ -235,7 +235,7 @@ const PrivacyPolicyPage = () => {
                 обработку персональных данных, направив Оператору уведомление
                 посредством электронной почты на электронный адрес
                 Оператора&nbsp;
-                <a href='mailto:rostelecom.merc@rt.ru'>rostelecom.merc@rt.ru</a>
+                <a href='mailto:BeastShop.merc@rt.ru'>BeastShop.merc@rt.ru</a>
                 &nbsp;с пометкой «Отзыв согласия на обработку персональных
                 данных».
               </li>

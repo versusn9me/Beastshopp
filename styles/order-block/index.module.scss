@@ -56,7 +56,7 @@
     text-align: center;
     padding: 12px 35px;
     border-radius: 50px;
-    background-color: #9466FF;
+    background-color: #66D4B7;
     transition: background-color .2s ease-in-out;
     color: #F1F3F5;
     height: 48px;
@@ -67,7 +67,7 @@
 
     &:hover {
       border-radius: 50px;
-      background-color: #70F;
+      background-color: #66D4B7;
       transition: background-color .2s ease-in-out;
     }
 
@@ -107,7 +107,7 @@
     }
 
     &__link {
-      color: #9466FF;
+      color: #66D4B7;
       text-decoration: none;
     }
 
@@ -115,7 +115,7 @@
       cursor: pointer;
       -webkit-appearance: none;
       background-color: transparent;
-      border: 2px solid #9466FF;
+      border: 2px solid #66D4B7;
       border-radius: 4px;
       width: 20px;
       height: 20px;

@@ -65,7 +65,7 @@
         padding: 10px;
         text-align: center;
         border-radius: 50px;
-        background-color: #9466FF;
+        background-color: #6614B7;
         color: #F1F3F5;
         font-size: 16px;
         font-weight: 500;
@@ -196,7 +196,7 @@
       }
 
       &__text {
-        color: #9466FF;
+        color: #66D4B7;
         font-size: 12px;
         margin-bottom: 5px;
         transition: color .2s ease-in-out;
@@ -276,7 +276,7 @@
 
           &.filters_mobile {
             @media (max-width: 610px) {
-              background-color: #9466FF;
+              background-color: #66D4B7;
             }
           }
         }
@@ -371,14 +371,14 @@
             font-size: 14px;
 
             &:focus {
-              border-color: #9466FF;
+              border-color: #66D4B7;
             }
           }
         }
 
         &__done {
           border-radius: 24px;
-          background-color: #9466FF;
+          background-color: #66D4B7;
           height: 32px;
           color: #FFF;
           font-size: 14px;
@@ -386,7 +386,7 @@
           transition: background-color .2s ease-in-out;
 
           &:hover {
-            background-color: #70F;
+            background-color: #66D4B7;
             transition: background-color .2s ease-in-out;
           }
 
@@ -419,7 +419,7 @@
           }
 
           &:hover {
-            border-color: #9466FF;
+            border-color: #66D4B7;
             transition: border-color .2s ease-in-out;
           }
 
@@ -536,8 +536,8 @@
         margin: 0 8px;
         padding: 0 8px;
         height: 8px;
-        border-right: 1px solid #9466FF;
-        border-left: 1px solid #9466FF;
+        border-right: 1px solid #66D417;
+        border-left: 1px solid #66D4B7;
 
         &__link {
           display: block;
@@ -578,12 +578,12 @@
           }
 
           &:hover {
-            color: #9466FF;
+            color: #66D4B7;
             transition: color .2s ease-in-out;
           }
 
           &:hover::before {
-            background-color: #9466FF;
+            background-color: #66D4B7;
             transition: background-color .2s ease-in-out;
           }
         }

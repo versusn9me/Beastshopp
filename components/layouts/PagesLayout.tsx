@@ -45,7 +45,7 @@ const PagesLayout = ({ children }: { children: React.ReactNode }) => {
   const handleCloseSizeTable = () => closeSizeTableByCheck(showQuickViewModal)
 
   useEffect(() => {
-    const checkCookie = document.cookie.indexOf('CookieBy=Rostelecom')
+    const checkCookie = document.cookie.indexOf('CookieBy=BeastShop')
     checkCookie != -1
       ? setCookieAlertOpen(false)
       : setTimeout(() => setCookieAlertOpen(true), 3000)
@@ -59,7 +59,7 @@ const PagesLayout = ({ children }: { children: React.ReactNode }) => {
         >
           <html lang='en'>
             <body>
-              <Next13ProgressBar height='4px' color='#9466FF' showOnShallow />
+              <Next13ProgressBar height='4px' color='#66D4B7' showOnShallow />
               <Layout>{children}</Layout>
               <div
                 className={`quick-view-modal-overlay ${

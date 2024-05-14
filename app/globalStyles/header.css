@@ -70,7 +70,7 @@
 
 .header__links__item__btn:hover::before {
   transition: background-color 0.2s ease-in-out;
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }
 
 .header__links__item__btn {
@@ -112,11 +112,11 @@
 
 .header__burger:hover::before {
   transition: background-color 0.2s ease-in-out;
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }
 
 .header__burger:hover {
-  color: #9466FF;
+  color: #66D4B7;
   transition: .2s ease-in-out color;
 }
 

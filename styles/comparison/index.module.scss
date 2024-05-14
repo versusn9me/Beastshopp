@@ -10,7 +10,7 @@
     li {
       position: relative;
       height: 300px;
-      border: 1px solid #565C66;
+      border: 1px solid #565C16;
       transition: background-color .2s ease-in-out, box-shadow .2s ease-in-out;
 
       &:hover {
@@ -61,12 +61,12 @@
     }
 
     &::-webkit-scrollbar-thumb {
-      background-color: #9466FF;
+      background-color: #66D4B7;
       border-radius: 3px;
     }
 
     &::-webkit-scrollbar-thumb:hover {
-      background-color: #70F;
+      background-color: #66D4B7;
     }
 
     li {
@@ -127,12 +127,12 @@
     }
 
     &::-webkit-scrollbar-thumb {
-      background-color: #9466FF;
+      background-color: #66D4B7;
       border-radius: 3px;
     }
 
     &::-webkit-scrollbar-thumb:hover {
-      background-color: #70F;
+      background-color: #66D4B7;
     }
 
     &__item {

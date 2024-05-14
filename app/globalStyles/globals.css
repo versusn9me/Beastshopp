@@ -21,12 +21,12 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #9466FF;
+  background-color: #66D4B7;
   border-radius: 3px;
 }
 
 body::-webkit-scrollbar-thumb:hover {
-  background-color: #70F;
+  background-color: #66D4B7;
 }
 
 .container {
@@ -140,7 +140,7 @@ body::-webkit-scrollbar-thumb:hover {
   width: 38px;
   height: 38px;
   border-radius: 50%;
-  background-color: #70F;
+  background-color: #66D4B7;
   left: 125px;
   top: 45%;
   background-image: url('/img/plus-big.svg');
@@ -155,7 +155,7 @@ body::-webkit-scrollbar-thumb:hover {
   width: 45px;
   border-radius: 50%;
   height: 45px;
-  border: 2px solid #70F;
+  border: 2px solid #66D4B7;
   left: -5px;
   top: -5px;
 }
@@ -210,7 +210,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .counter button:hover::before {
   transition: background-color 0.2s ease-in-out;
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }
 
 .counter span {
@@ -303,9 +303,9 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .catalog-pagination-item.selected {
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }
 
 .catalog-pagination-item:hover.selected a {
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }

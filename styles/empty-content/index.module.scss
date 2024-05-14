@@ -149,7 +149,7 @@
     }
 
     a {
-      color: #9466ff;
+      color: #66D4B7;
       text-decoration: none;
     }
   }
@@ -202,7 +202,7 @@
     }
 
     a:first-child {
-      background-color: #9466FF;
+      background-color: #66D4B7;
       margin-right: 20px;
       transition: background-color .2s ease-in-out;
 
@@ -213,16 +213,16 @@
 
       &:hover {
         transition: background-color .2s ease-in-out;
-        background-color: #70f;
+        background-color: #66D4B7;
       }
     }
 
     a:last-child {
-      border: 2px solid #9466FF;
+      border: 2px solid #66D4B7;
 
       &:hover {
         transition: background-color .2s ease-in-out;
-        background-color: #9466FF;
+        background-color: #66D4B7;
       }
     }
   }

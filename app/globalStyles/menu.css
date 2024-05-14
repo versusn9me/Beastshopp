@@ -31,12 +31,12 @@
 }
 
 .nav-menu::-webkit-scrollbar-thumb {
-  background-color: #9466FF;
+  background-color: #66D4B7;
   border-radius: 3px;
 }
 
 .nav-menu::-webkit-scrollbar-thumb:hover {
-  background-color: #70F;
+  background-color: #66D4B7;
 }
 
 .nav-menu:before {
@@ -100,7 +100,7 @@
 
 .nav-menu__close:hover::before {
   transition: background-color 0.2s ease-in-out;
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }
 
 .nav-menu__close.open,
@@ -139,13 +139,13 @@
 }
 
 .nav-menu__lang__btn.lang-active {
-  border-color: #9466FF !important;
+  border-color: #66D4B7 !important;
   color: rgba(255, 255, 255, 0.90);
 }
 
 .nav-menu__lang__btn:hover {
   transition: border-color .2s ease-in-out, color .2s ease-in-out;
-  border-color: #9466FF !important;
+  border-color: #66D4B7 !important;
   color: rgba(255, 255, 255, 0.90);
 }
 
@@ -250,7 +250,7 @@
 }
 
 .nav-menu__accordion__item__list__item__link:hover {
-  color: #9466FF;
+  color: #66D4B7;
   transition: .2s ease-in-out color;
 }
 

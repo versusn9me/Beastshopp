@@ -41,7 +41,7 @@
 
     &:hover::before {
       transition: background-color 0.2s ease-in-out;
-      background-color: #9466FF;
+      background-color: #66D4B7;
     }
   }
 
@@ -105,7 +105,7 @@
           background-position: center center;
 
           &:hover {
-            background-color: #9466FF !important;
+            background-color: #66D4B7 !important;
             transition: background-color .2s ease-in-out;
           }
         }
@@ -195,7 +195,7 @@
           }
 
           &:hover {
-            background-color: #9466FF !important;
+            background-color: #66D4B7 !important;
             transition: background-color .2s ease-in-out;
           }
 
@@ -252,7 +252,7 @@
         border: none;
         margin: 0;
         border-radius: 32px;
-        background-color: #9466FF !important;
+        background-color: #66D4B7 !important;
         padding: 12px 24px !important;
         width: 164px;
         color: #FFF;
@@ -261,7 +261,7 @@
         transition: background-color .2s ease-in-out;
 
         &:hover {
-          background-color: #70F !important;
+          background-color: #66D4B7 !important;
           transition: background-color .2s ease-in-out;
         }
 
@@ -287,14 +287,14 @@
 
       &__link {
         text-decoration: none;
-        color: #9466FF;
+        color: #66D4B7;
         text-align: center;
         font-size: 16px;
         font-weight: 500;
         transition: color .2s ease-in-out;
 
         &:hover {
-          color: #70F;
+          color: #66D4B7;
           transition: color .2s ease-in-out;
         }
       }

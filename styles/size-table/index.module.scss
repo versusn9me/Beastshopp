@@ -53,7 +53,7 @@
 
     &:hover::before {
       transition: background-color 0.2s ease-in-out;
-      background-color: #9466FF;
+      background-color: #66D4B7;
     }
   }
 
@@ -77,7 +77,7 @@
 
   &__btn {
     border-radius: 32px;
-    background-color: #9466FF !important;
+    background-color: #66D4B7 !important;
     padding: 12px 24px !important;
     color: #FFF;
     font-size: 16px;
@@ -94,7 +94,7 @@
     }
 
     &:hover {
-      background-color: #70F !important;
+      background-color: #66D4B7 !important;
       transition: background-color .2s ease-in-out;
     }
 
@@ -127,7 +127,7 @@
     }
 
     thead tr {
-      background-color: #2A323F;
+      background-color: #66D4B7;
       color: rgba(255, 255, 255, .9);
     }
 
@@ -146,7 +146,7 @@
       transition: background-color .2s ease-in-out;
 
       &:hover {
-        background-color: #9466FF !important;
+        background-color: #66D4B7 !important;
         transition: background-color .2s ease-in-out;
       }
     }

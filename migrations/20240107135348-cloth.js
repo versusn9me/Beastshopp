@@ -4,9 +4,9 @@ const { faker } = require('@faker-js/faker')
 const getRandomArrayValue = (arr) => arr[Math.floor(Math.random() * arr.length)]
 
 const collections = ['street', 'black', 'casual', 'orange', 'line']
-const colors = ['purpure', 'yellow', 'orange', 'black', 'white']
+const popa = ['purpure', 'yellow', 'orange', 'black', 'white']
 const compositions = ['cotton', 'synthetics', 'polyester']
-const clothTypes = ['t-shirts', 'long-sleeves', 'hoodie', 'outerwear']
+const clothTypes = ['t-shirts', '2', 'hoodie', 'outerwear']
 const images = [
   '/img/clothes/cloth-hoodie-1.png',
   '/img/clothes/cloth-long-sleeves-1.png',
@@ -60,7 +60,7 @@ module.exports = {
         const characteristics = [
           {
             type: 't-shirts',
-            color: getRandomArrayValue(colors),
+            color: getRandomArrayValue(popa),
             collar: getRandomArrayValue(collars),
             silhouette: 'straight',
             print: 'chocolate, print, melange',
@@ -71,8 +71,8 @@ module.exports = {
               collections[Math.floor(Math.random() * collections.length)],
           },
           {
-            type: 'long-sleeves',
-            color: getRandomArrayValue(colors),
+            type: '2',
+            color: getRandomArrayValue(popa),
             collar: getRandomArrayValue(collars),
             silhouette: 'straight',
             print: 'chocolate, print, melange',
@@ -87,7 +87,7 @@ module.exports = {
           },
           {
             type: 'hoodie',
-            color: getRandomArrayValue(colors),
+            color: getRandomArrayValue(popa),
             collar: getRandomArrayValue(collars),
             silhouette: 'straight',
             print: 'chocolate, print, melange',
@@ -101,7 +101,7 @@ module.exports = {
           },
           {
             type: 'outerwear',
-            color: getRandomArrayValue(colors),
+            color: getRandomArrayValue(popa),
             collar: getRandomArrayValue(collars),
             decor: faker.datatype.boolean(),
             composition: getRandomArrayValue(compositions),

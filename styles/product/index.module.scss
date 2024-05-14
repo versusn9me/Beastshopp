@@ -64,7 +64,7 @@
         }
 
         &.img_loading {
-          background: #2a323f;
+          background: #2a3212;
           pointer-events: none;
         }
 
@@ -260,13 +260,13 @@
       font-size: 16px;
       font-weight: 500;
       border-radius: 50px;
-      background-color: #9466FF;
+      background-color: #66D4B7;
       padding: 12px 35px;
       transition: background-color .2s ease-in-out;
 
       &:hover {
         transition: background-color .2s ease-in-out;
-        background-color: #70F;
+        background-color: #66D4B7;
       }
     }
 
@@ -341,12 +341,12 @@
         }
 
         &:hover &__text {
-          color: #9466FF;
+          color: #66D4B7;
           transition: color .2s ease-in-out;
         }
 
         &:hover &__icon {
-          background-color: #9466FF;
+          background-color: #6124B7;
           transition: background-color .2s ease-in-out, transform .2s ease-in-out;
         }
       }

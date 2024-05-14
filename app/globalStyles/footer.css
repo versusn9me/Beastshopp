@@ -90,11 +90,11 @@
 
 .footer__socials__item__link:hover::before {
   transition: background-color 0.2s ease-in-out;
-  background-color: #9466FF;
+  background-color: #66D4B7;
 }
 
 .footer__socials__item__link:hover {
-  border-color: #9466FF;
+  border-color: #66D4B7;
   transition: border-color .2s ease-in-out;
 }
 
@@ -127,7 +127,7 @@
 }
 
 .footer__policy__inner a:hover, .footer__mobile a:hover {
-  color: #9466FF;
+  color: #66D4B7;
   transition: color .2s ease-in-out;
 }
 
