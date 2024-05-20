@@ -50,7 +50,7 @@ const Categories = () => {
                 <Image
                   src={img1}
                   alt='Cloth'
-                  className='transition-opacity opacity-0 duration'
+                  className='transition-opacity opacity-1 duration'
                   onLoad={handleLoadingImageComplete}
                 />
                 <span>{translations[lang].main_page.category_cloth}</span>

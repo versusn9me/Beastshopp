@@ -6,7 +6,7 @@ const getRandomArrayValue = (arr) => arr[Math.floor(Math.random() * arr.length)]
 const collections = ['street', 'black', 'casual', 'orange', 'line']
 const popa = ['purpure', 'yellow', 'orange', 'black', 'white']
 const compositions = ['cotton', 'synthetics', 'polyester']
-const clothTypes = ['t-shirts', '2', 'hoodie', 'outerwear']
+const clothTypes = ['t-shirts', 'longsleeves', 'hoodie', 'outerwear']
 const images = [
   '/img/clothes/cloth-hoodie-1.png',
   '/img/clothes/cloth-long-sleeves-1.png',
@@ -71,7 +71,7 @@ module.exports = {
               collections[Math.floor(Math.random() * collections.length)],
           },
           {
-            type: '2',
+            type: 'longsleeves',
             color: getRandomArrayValue(popa),
             collar: getRandomArrayValue(collars),
             silhouette: 'straight',

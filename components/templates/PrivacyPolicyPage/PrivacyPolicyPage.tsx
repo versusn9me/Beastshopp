@@ -265,7 +265,7 @@ const PrivacyPolicyPage = () => {
                 интересующим вопросам, касающимся обработки его персональных
                 данных, обратившись к Оператору с помощью электронной
                 почты&nbsp;
-                <a href='mailto:rostelecom.merc@rt.ru'>rostelecom.merc@rt.ru</a>
+                <a href='mailto:beasthop.merc@rt.ru'>beastshop.merc@rt.ru</a>
                 .
               </li>
               <li>
