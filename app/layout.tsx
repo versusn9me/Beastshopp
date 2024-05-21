@@ -17,8 +17,8 @@ import './globalStyles/cookie-popup.css'
 import './globalStyles/breadcrumbs.css'
 
 export const metadata: Metadata = {
-  title: 'Rostelecom',
-  description: 'Rostelecom магазин одежды, аксесуаров, концелярии и сувениров',
+  title: 'BeastShop',
+  description: 'BeastShop магазин компьютеров',
 }
 
 export const viewport: Viewport = {
