@@ -4,8 +4,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: 'Beastshop Application',
     short_name: 'Beastshop App',
-    description:
-      'Beastshop магазин компьютеров',
+    description: 'Beastshop магазин компьютеров',
     start_url: '/',
     background_color: '#fff',
     theme_color: '#fff',
